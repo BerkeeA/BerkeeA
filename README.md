@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**BerkeeA/BerkeeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Berke! 👋
+👨‍💻 Currently Leveling Up
+🎓 Software Development Student (2nd Year)
+🚀 Deeply interested in building real-world solutions.
+🤝 Using Claude & Copilot to accelerate my learning and coding process.
+🛠 Tech Stack (In Progress)
+Programming: C, Java, Python, Dart.
+Web & Mobile: HTML, CSS, JavaScript, Flutter.
+Tools: Git, VS Code.
+📱 Upcoming Projects
+🚧 App Store & Google Play: Currently developing my first mobile application.
